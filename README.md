@@ -1,18 +1,14 @@
 # CliqueCounting
 
-The datasets and scripts used for the project are in the follwoing google drive file:
+Downloadscripts used for the project are in the follwoing google drive file:
+
+  https://drive.google.com/drive/folders/1n6m4MmDzP8UPtIdrAsZIsJdpqx47aN9G?usp=sharing
   
-  
-Download these datasets,
 Download the two script files (these will take care of setting up the repos and cloning from github)
 
 
 # Run the Script File 1 script1.sh:
-# this will clone the repository from github and setup the folders
-
-Now, move the downloaded datasets to:
-
-cd algoProject/cliques/sjain12-cliquecounting-1e8e64987b2e/graphs
+# this will clone the repository from github and setup the dataset folders
 
 
 # Run Script file 2 (script2.sh --- place it inside path algoProject/cliques/sjain12-cliquecounting-1e8e64987b2e/graphs
