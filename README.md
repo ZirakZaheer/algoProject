@@ -18,4 +18,5 @@ this will transform the datasets in to .edges format and instantiate all the tes
 
 # Results can be found in the results directory.
 
-
+Note: this script assumes that you have clang and gcc set up as well
+Note: before running the scripts you will need to have python, pip, numpy all setup in your machine you are running it in!
